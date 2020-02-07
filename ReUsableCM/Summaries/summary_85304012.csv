@@ -1,0 +1,10 @@
+Description,Summary (in Nos)
+Total Num of Pages in Doc B,25.0
+Total Num of Pages in Doc A,25.0
+Total Sentences present in Doc B,335.0
+Total sentences present in Doc A,337.0
+Total Matched sentences present in B compared with A,331.0
+Total Matched sentences present in A compared with B,333.0
+Total UnMatched sentences present in B compared with A,4.0
+Total UnMatched sentences present in A compared with B,4.0
+% Similarity,98.80952380952381
